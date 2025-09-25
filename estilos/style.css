@@ -59,12 +59,14 @@ section#login > div#formulario {
 }
 
 div#formulario > h1 {
+    color: #213A40;
     text-align: center;  
     margin-bottom: 10px;
     
 }
 
 div#formulario > p {
+    color: #213A40;
     text-align: justify;
     font-size: 0.8em;
     padding: 5px;
@@ -110,7 +112,8 @@ form > a.botao:hover {
 
 div.campo > span {
     color: #213A40;
-    transform: translateY(8px);
+    transform: translateY(8px); /* sempre que tiver uma transformação para fazer deixar sempre na ultima linha do seletor
+    */
     
 
 }
