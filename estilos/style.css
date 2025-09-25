@@ -107,3 +107,15 @@ form > a.botao:hover {
     background-color: #8BBBD9;
 
 }
+
+div.campo > span {
+    color: #213A40;
+    transform: translateY(8px);
+    
+
+}
+
+div.campo > input {
+    border-radius: 5px;
+    border: 1px 1px 1px 1px solid #213A40;
+}
