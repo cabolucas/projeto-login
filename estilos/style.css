@@ -70,6 +70,10 @@ div#formulario > p {
     padding: 5px;
 }
 
+ form > input {
+        margin-top: 10px;
+    }
+
 form > input[type=submit] {
     display: block;
     font-size: 1em;    
