@@ -50,7 +50,7 @@ section#login > div#imagem {
     background: url(../imagens/pexels-ron-lach-9783346.jpg);
     background-size: cover;
     background-position: center;
-    height: 200px;
+    height: 150px;
 }
 
 section#login > div#formulario {
@@ -68,4 +68,38 @@ div#formulario > p {
     text-align: justify;
     font-size: 0.8em;
     padding: 5px;
+}
+
+form > input[type=submit] {
+    display: block;
+    font-size: 1em;    
+    width: 100%;
+    height: 30px;
+    background-color: #213A40;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    
+}
+
+form > input[type=submit]:hover {
+    background-color: #6593A6;
+    cursor: pointer;
+}
+
+form > a.botao {
+    display: block;
+    text-align: center;
+    font-size: 1em;
+    width: 100%;
+    height: 30px;
+    margin-top: 7px;
+    border-radius: 5px;
+    color: #213A40;
+
+}
+
+form > a.botao:hover {
+    background-color: #8BBBD9;
+
 }
