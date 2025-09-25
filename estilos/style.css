@@ -44,9 +44,9 @@ section#login {
 
 section#login > div#imagem {
     display: block;
-    background: url(../imagens/pexels-ron-lach-9783346.jpg);
+    background: url(../imagens/capsule_616x353.jpg);
     background-size: cover;
-    background-position: right center;
+    background-position: center;
     height: 200px;
 }
 
