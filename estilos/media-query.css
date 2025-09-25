@@ -14,8 +14,13 @@
 
     section#login > div#imagem {
         float: left;
-        width: 30%;
+        width: 50%;
         height: 100%;
+        background-color: #213A40;
+        background-size: contain;
+        background-repeat: no-repeat;
+
+        
     }
 
     section#login > div#formulario {
